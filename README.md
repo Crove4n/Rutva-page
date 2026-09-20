@@ -2,6 +2,8 @@
 
 A responsive, single-page portfolio for senior technical writer Rutva Safi. Built with semantic HTML, CSS, and a small JavaScript enhancement for mobile navigation. No build step or application dependencies.
 
+Live site: https://crove4n.github.io/Rutva-page/
+
 ## Local preview
 
 From this directory, run `python -m http.server 4173 --bind 127.0.0.1`, then open http://127.0.0.1:4173. Stop the server with Ctrl+C. The page also works when opened directly from disk.
