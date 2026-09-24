@@ -14,7 +14,7 @@ From this directory, run `python -m http.server 4173 --bind 127.0.0.1`, then ope
 - `styles.css`: colors, typography, responsive layouts, and reduced-motion support.
 - `DESIGN.md`: white and royal-purple palette, token roles, and contrast pairs.
 - `script.js`: mobile menu, Escape dismissal, and focus handling.
-- `assets/`: the CV-sourced portrait, podcast thumbnails, and custom favicon.
+- `assets/`: the CV-sourced portrait, podcast and article thumbnails, and custom favicon.
 
 The page uses DM Sans and Instrument Serif from Google Fonts, with system fallbacks. All other assets are local. Content and navigation remain available without JavaScript.
 
@@ -22,7 +22,7 @@ The page uses DM Sans and Instrument Serif from Google Fonts, with system fallba
 
 Career information is based on Rutva's September 19, 2026 CV. Employer documentation is summarized rather than reproduced. The use cases restate work already described on the page and do not claim specific outcomes. Podcast, webinar, conference, recognition, Crowdin blog, and LinkedIn destinations come from the CV or the supplied URLs; podcast titles were verified against YouTube's public metadata. Podcast thumbnails are local copies of the corresponding YouTube thumbnails and link to the original videos.
 
-The "Out in the world" section features the tcworld conference session, WomenTech Global Awards nomination, and Crowdin blog interview. "On the mic" features the Document360 podcast and webinar, plus a separate link to the WomenTech nomination. LinkedIn restricts automated visits; its URL matches the supplied CV. Do not add unsupported results, testimonials, or availability claims.
+The "Out in the world" section features the tcworld conference session, WomenTech Global Awards nomination, and Crowdin blog interview. Its local thumbnails are copies of the public speaker portrait from the tcworld session page, official nominee graphic from the WomenTech page, and article hero from the Crowdin page, respectively. The WomenTech and Crowdin graphics use a CSS display crop to keep their lower employer text out of view; the source images are unedited. "On the mic" features the Document360 podcast and webinar, plus a separate link to the WomenTech nomination. LinkedIn restricts automated visits; its URL matches the supplied CV. Do not add unsupported results, testimonials, or availability claims.
 
 Only Rutva's email and LinkedIn are offered as contact methods. Do not commit the source CV, reference details, phone numbers, or temporary inspection files. There is no CV download, analytics, contact form, or public deployment configuration.
 
